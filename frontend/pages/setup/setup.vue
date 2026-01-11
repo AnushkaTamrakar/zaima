@@ -142,7 +142,6 @@ export default {
 .setup-container {
   padding: 20px;
   background-color: #f8f8f8;
-  min-height: 100vh;
 }
 
 .header {

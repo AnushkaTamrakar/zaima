@@ -3,7 +3,7 @@
     {
       "path": "pages/index/index",
       "style": {
-        "navigationBarTitleText": "zaima - 安全工具",
+        "navigationBarTitleText": "在吗 - 安全工具",
         "enablePullDownRefresh": false
       }
     },
@@ -18,7 +18,7 @@
     {
       "path": "pages/about/about",
       "style": {
-        "navigationBarTitleText": "关于zaima",
+        "navigationBarTitleText": "关于在吗",
         "navigationBarBackgroundColor": "#ffffff",
         "navigationBarTextStyle": "black"
       }
@@ -26,7 +26,7 @@
   ],
   "globalStyle": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "zaima",
+    "navigationBarTitleText": "在吗",
     "navigationBarBackgroundColor": "#ffffff",
     "backgroundColor": "#f8f8f8",
     "enablePullDownRefresh": false,

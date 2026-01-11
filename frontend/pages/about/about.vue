@@ -3,10 +3,13 @@
     <div class="header">
       <div class="app-logo">
         <div class="logo-circle">
-          <span class="logo-icon">👻</span>
+          <svg class="logo-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="50" cy="35" r="20" fill="white" stroke="#4CD964" stroke-width="2"/>
+            <text x="50" y="42" font-size="18" font-weight="bold" fill="#4CD964" text-anchor="middle">在吗</text>
+          </svg>
         </div>
       </div>
-      <h1 class="app-name">zaima</h1>
+      <h1 class="app-name">在吗</h1>
       <p class="app-slogan">让独处生活更安心</p>
       <p class="app-version">v1.0.0</p>
     </div>
@@ -18,7 +21,7 @@
           关于应用
         </h2>
         <p class="section-content">
-          zaima 是为独居人群打造的轻量化安全工具，通过签到监测与紧急联络机制，构建无感化安全防护，让独处生活更安心。
+          在吗是为独居人群打造的轻量化安全工具，通过签到监测与紧急联络机制，构建无感化安全防护，让独处生活更安心。
         </p>
       </div>
 
@@ -84,7 +87,7 @@
     </div>
 
     <div class="footer">
-      <p class="copyright">© 2026 zaima. All rights reserved.</p>
+      <p class="copyright">© 2026 在吗. All rights reserved.</p>
     </div>
   </div>
 </template>
@@ -143,8 +146,9 @@ export default {
   box-shadow: 0 8px 24px rgba(76, 217, 100, 0.3);
 }
 
-.logo-icon {
-  font-size: 48px;
+.logo-svg {
+  width: 100%;
+  height: 100%;
 }
 
 .app-name {

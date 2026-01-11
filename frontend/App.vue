@@ -52,15 +52,18 @@ export default {
 /* 修复 uniapp 页面高度问题 */
 page {
   height: 100%;
+  overflow: hidden;
 }
 
 uni-page-wrapper {
   height: 100%;
+  overflow: hidden;
 }
 
 uni-page-body {
   height: 100%;
-  overflow: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 body {
