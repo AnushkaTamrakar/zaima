@@ -1,0 +1,56 @@
+{
+  "name": "zaima",
+  "appid": "__UNI__ZAIMA",
+  "description": "为独居人群打造的轻量化安全工具",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "transformPx": true,
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": true
+    },
+    "usingComponents": true
+  },
+  "app-plus": {
+    "usingComponents": true,
+    "nvueStyleCompiler": "uni-app",
+    "compilerVersion": 3,
+    "splashscreen": {
+      "alwaysShowBeforeRender": true,
+      "waiting": true,
+      "autoclose": true,
+      "delay": 0
+    },
+    "modules": {
+      "OAuth": {},
+      "Share": {}
+    },
+    "distribute": {
+      "android": {
+        "permissions": [
+          "android.permission.INTERNET"
+        ]
+      }
+    }
+  },
+  "quickapp": {
+    "iconPath": "static/logo.png",
+    "router": {
+      "entryPage": "pages/index/index",
+      "pages": {
+        "pages/index/index": {
+          "component": "index"
+        }
+      }
+    },
+    "display": {
+      "titleBarTextColor": "#ffffff",
+      "titleBarBackgroundColor": "#007AFF",
+      "menu": {
+        "enable": false
+      },
+      "orientation": ["portrait"]
+    }
+  }
+}

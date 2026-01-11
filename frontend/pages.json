@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "zaima - 安全工具",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/setup/setup",
+      "style": {
+        "navigationBarTitleText": "紧急联系人设置",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/about/about",
+      "style": {
+        "navigationBarTitleText": "关于zaima",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "zaima",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f8f8f8",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#4CD964",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/setup/setup",
+        "iconPath": "static/tabbar/setup.png",
+        "selectedIconPath": "static/tabbar/setup-active.png",
+        "text": "设置"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "iconPath": "static/tabbar/about.png",
+        "selectedIconPath": "static/tabbar/about-active.png",
+        "text": "关于"
+      }
+    ]
+  }
+}
